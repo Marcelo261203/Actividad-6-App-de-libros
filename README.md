@@ -4,7 +4,7 @@ Una aplicación móvil híbrida para buscar libros utilizando la Google Books AP
 
 ## 🌐 Demo en Vivo
 
-**¡Prueba la aplicación ahora!** 👉 [https://book-search-a0wubfgrp-marcelo-josue-flores-buendias-projects.vercel.app](https://book-search-a0wubfgrp-marcelo-josue-flores-buendias-projects.vercel.app)
+**¡Prueba la aplicación ahora!** 👉 [https://book-search-app-gilt.vercel.app](https://book-search-app-gilt.vercel.app)
 
 ## 📱 Repositorio
 
