@@ -2,6 +2,14 @@
 
 Una aplicación móvil híbrida para buscar libros utilizando la Google Books API, con funcionalidad de favoritos y almacenamiento local.
 
+## 🌐 Demo en Vivo
+
+**¡Prueba la aplicación ahora!** 👉 [https://book-search-a0wubfgrp-marcelo-josue-flores-buendias-projects.vercel.app](https://book-search-a0wubfgrp-marcelo-josue-flores-buendias-projects.vercel.app)
+
+## 📱 Repositorio
+
+**Código fuente**: [https://github.com/Marcelo261203/Actividad-6-App-de-libros.git](https://github.com/Marcelo261203/Actividad-6-App-de-libros.git)
+
 ## 🚀 Características
 
 - **Búsqueda de Libros**: Integración con Google Books API
